@@ -2,7 +2,6 @@
 
 ```python
 class PythonDeveloper:
-
     def __init__(self):
         self.name = "Arkady Skorohodov"
         self.role = "Python Developer"
