@@ -1,16 +1,65 @@
-### Hi there 👋
+# What do we have here??
 
-<!--
-**aaskorohodov/aaskorohodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class PythonDeveloper:
 
-Here are some ideas to get you started:
+    def __init__(self):
+        self.name = "Arkady Skorohodov"
+        self.role = "Python Developer"
+        self.language_spoken = ["ru_RU", "en_US", "de_DE"]
+        self.programming_languages = {
+            'Python': 'Good',
+            'JS': 'Not so well'
+        }
+        self.other_stuff = {
+            'HTML': 'Heard about',
+            'CSS': 'Fascinated with'
+        }
+        
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def hello_everyone(self):
+        print("Nive to meet you!")
+
+
+me = PythonDeveloper()
+me.hello_everyone()
+```
+
+## Something to share
+
+* [Personal website](http://dy-production.twc1.net/) <img src="support/dy_favicon.ico" height="15">
+
+## TOC
+
+#### Random stuff
+
+- [SOLID and some programming-patterns](https://github.com/aaskorohodov/HardSkills)
+- [A small HH parser with web-interface](https://github.com/aaskorohodov/hh_parser)
+- [FastAPI project illustration](https://github.com/aaskorohodov/udv_test)
+- [Interesting Stuff in Python](https://github.com/aaskorohodov/interesting-stuff)
+- [HackerRank's SQL contest](https://github.com/aaskorohodov/HackerRank)
+- [A parser with Django-based admin-panel](https://github.com/aaskorohodov/habr_parser)
+- [NuralNetworks in a nutshell](https://github.com/aaskorohodov/Neural_Networks)
+- [My WebSite (Django)](https://github.com/aaskorohodov/DY-Website)
+- [Not so good TelegramBot](https://github.com/aaskorohodov/Telebot)
+- [Automatic MouseMover](https://github.com/aaskorohodov/AutoMouseMover)
+- [Small Django Project](https://github.com/aaskorohodov/Pro_Python_Django)
+- [Django-Based online store with spaceships](https://github.com/aaskorohodov/Space_Shop)
+- [Django-Based CPU-monitor](https://github.com/aaskorohodov/CPU-test)
+- [Async reminder](https://github.com/aaskorohodov/Reminder_Async)
+
+#### NoteBooks
+
+- [HTML and CSS](https://github.com/aaskorohodov/html_css)
+- [JS](https://github.com/aaskorohodov/Learning-JS/tree/main)
+- [Python-libraries](https://github.com/aaskorohodov/Modules)
+- [A brief introduction to Formal Logic](https://github.com/aaskorohodov/crashcourse_formal_logic)
+- [Think Python book](https://github.com/aaskorohodov/Learning_Python/tree/master/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/%D0%94%D1%83%D0%BC%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%D0%9F%D0%B8%D1%82%D0%BE%D0%BD)
+- [FastAPI NoteBook](https://github.com/aaskorohodov/fastapi_tutorial)
+
+## Contact
+
+
+- 📧 Email: aaskorohodov@gmail.com
+- 🐦 Instagram:  [InMyHandProject](https://www.instagram.com/in_my_hand_project/)
+- 💼 LinkedIn: [Here you go!](https://www.linkedin.com/in/%D1%84%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D1%81-%D0%B0%D0%BD%D0%BA%D0%BE%D0%BD%D0%B8%D1%8F-a70a26209/)
