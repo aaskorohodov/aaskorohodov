@@ -17,7 +17,7 @@ class PythonDeveloper:
         
 
     def hello_everyone(self):
-        print("Nive to meet you!")
+        print("Nice to meet you!")
 
 
 me = PythonDeveloper()
