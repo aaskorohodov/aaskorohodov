@@ -34,6 +34,7 @@ me.hello_everyone()
 #### Random stuff
 
 - [SOLID and some programming-patterns](https://github.com/aaskorohodov/HardSkills)
+- [My personal StyleGuides](https://github.com/aaskorohodov/style_guides)
 - [A small HH parser with web-interface](https://github.com/aaskorohodov/hh_parser)
 - [FastAPI project illustration](https://github.com/aaskorohodov/udv_test)
 - [Interesting Stuff in Python](https://github.com/aaskorohodov/interesting-stuff)
