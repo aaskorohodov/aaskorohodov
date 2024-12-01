@@ -12,7 +12,10 @@ class PythonDeveloper:
         }
         self.other_stuff = {
             'HTML': 'Heard about',
-            'CSS': 'Fascinated with'
+            'CSS': 'Fascinated with',
+            'Kubernetes': 'Very helpfull',
+            'PyPoetry': 'PIP on steroids',
+            'Docker': 'Because Python aint so good in multiprocessing'
         }
         
 
