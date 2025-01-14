@@ -27,10 +27,6 @@ me = PythonDeveloper()
 me.hello_everyone()
 ```
 
-## Something to share
-
-* [Personal website](http://dy-production.twc1.net/) <img src="support/dy_favicon.ico" height="15">
-
 ## TOC
 
 #### Random stuff
