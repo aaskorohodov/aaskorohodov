@@ -19,12 +19,12 @@ class PythonDeveloper:
         }
         
 
-    def hello_everyone(self):
-        print("Nice to meet you!")
+    def say_hello_to_evry1(self):
+        print("Hello everyone!")
 
 
 me = PythonDeveloper()
-me.hello_everyone()
+me.say_hello_to_evry1()
 ```
 
 ## TOC
