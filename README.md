@@ -2,6 +2,8 @@
 
 ```python
 class PythonDeveloper:
+    """Docstring, google-style!"""
+
     def __init__(self):
         self.name = "Arkady Skorohodov"
         self.role = "Python Developer"
@@ -15,7 +17,8 @@ class PythonDeveloper:
             'CSS': 'Fascinated with',
             'Kubernetes': 'Very helpfull',
             'PyPoetry': 'PIP on steroids',
-            'Docker': 'Because Python aint so good in multiprocessing'
+            'Docker': 'Because Python aint so good in multiprocessing',
+            'SOAP': 'Because some projects are legacy'
         }
         
 
@@ -32,6 +35,7 @@ me.say_hello_to_every1()
 #### Random stuff
 
 - [SOLID and some programming-patterns](https://github.com/aaskorohodov/HardSkills)
+- [MiBand 8\9 Pro watchfaces](https://github.com/aaskorohodov/mi_band_9_pro_pip_girl_fallout_watchface)
 - [My personal StyleGuides](https://github.com/aaskorohodov/style_guides)
 - [A small HH parser with web-interface](https://github.com/aaskorohodov/hh_parser)
 - [FastAPI project illustration](https://github.com/aaskorohodov/udv_test)
