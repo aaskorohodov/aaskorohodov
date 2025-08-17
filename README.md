@@ -30,6 +30,11 @@ me = PythonDeveloper()
 me.say_hello_to_every1()
 ```
 
+## Something to share
+
+* [Personal website](http://85.12.207.195:8082/) <img src="support/dy_favicon.ico" height="15">
+
+
 ## TOC
 
 #### Random stuff
