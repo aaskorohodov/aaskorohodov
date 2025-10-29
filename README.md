@@ -84,7 +84,7 @@ GitLab, md-format, Jira, ruff, pytest, loguru, Kafka, Rabbit, Redis, OpenSearch,
 
 *Python developer*
 February 2024 - current
-Backend, MSA, k8s. Company specializes in cellular communications
+Backend, MSA, k8s. Company specializes in cellular communications for [Motiv](https://motivtelecom.ru/)
 - Wrote 30+ applications from scratch
 - Rewrite 5+ applications from other languages to Python
 - Was using big range of data systems such as Kafka, Redis, RabbitMQ, PostgresSQL, Oracle, SOAP, etc. As company has lots of data scattered in many systems
