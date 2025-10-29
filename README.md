@@ -66,6 +66,14 @@ me.say_hello_to_every1()
 - [FastAPI NoteBook](https://github.com/aaskorohodov/fastapi_tutorial)
 
 
+
+
+
+
+
+
+
+
 -----
 
 # Overview
