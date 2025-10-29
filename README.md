@@ -106,11 +106,6 @@ Mostly BackEnd, a bit of FrontEnd. Company sells all kinds of electronics
 - Was dealing with building app without k8s, on dedicated servers
 - Teared monolithic app into several smaller services, reducing code base of main app from +180K to +30K lines
 
-## Skills
-
-Python 3.6 - 3.13, Kubernetes, Prometheus Metrics, PyQt, YOLO v3 - v5, API (FastAPI, DjangoREST, LiteStar, Flask),
-Package managers (pip, Poetry, UV), Pydantic
-
 ## Contact
 
 
