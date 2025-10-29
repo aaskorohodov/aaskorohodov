@@ -65,6 +65,48 @@ me.say_hello_to_every1()
 - [Think Python book](https://github.com/aaskorohodov/Learning_Python/tree/master/%D0%9E%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5/%D0%94%D1%83%D0%BC%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5%20%D0%9F%D0%B8%D1%82%D0%BE%D0%BD)
 - [FastAPI NoteBook](https://github.com/aaskorohodov/fastapi_tutorial)
 
+
+-----
+
+# Overview
+
+Python developer with experience in BackEnd, k8s and microservice architecture.
+
+## Current Stack
+
+Almost every day user of:
+Python 3.10 - 3.12, K8s, Lens, kubectl, Werf + Helm, Prometheus, FastAPI, Flask, LiteStar, Faust-streaming (fork), zeep, Nexus (package-manager), 
+GitLab, md-format, Jira, ruff, pytest, loguru, Kafka, Rabbit, Redis, OpenSearch, SonarQube
+
+## Work Experience
+
+### [ITeamy](https://www.iteamy.pro/)
+
+*Python developer*
+February 2024 - current
+Backend, MSA, k8s. Company specializes in cellular communications
+- Wrote 30+ applications from scratch
+- Rewrite 5+ applications from other languages to Python
+- Was using big range of data systems such as Kafka, Redis, RabbitMQ, PostgresSQL, Oracle, SOAP, etc. As company has lots of data scattered in many systems
+- Strict development process: app -> unittests -> ruff -> readme.md -> externals documentation -> gitlab pipeline -> review -> production
+- Everyday use of k8s, Lens, pytest, Faust, FastAPI, httpx, lxml, prometheus, LiteStar, Flask, Pydantic, Poetry, loguru
+
+### [DNS](https://www.dns-shop.ru/)
+
+*Python developer*
+June 2022 - November 2023
+Mostly BackEnd, a bit of FrontEnd. Company sells all kinds of electronics
+- As a team we developed a monolithic application to distribute products across hundreds of stores
+- Participated in developing business-logic for our distribution system
+- Optimized distribution logic by parallelizing application into different threads and processes which provided astonishing > 100 times speed up
+- Was dealing with building app without k8s, on dedicated servers
+- Teared monolithic app into several smaller services, reducing code base of main app from +180K to +30K lines
+
+## Skills
+
+Python 3.6 - 3.13, Kubernetes, Prometheus Metrics, PyQt, YOLO v3 - v5, API (FastAPI, DjangoREST, LiteStar, Flask),
+Package managers (pip, Poetry, UV), Pydantic
+
 ## Contact
 
 
