@@ -87,6 +87,7 @@ RabbitMQ, Redis, OpenSearch, SonarQube.
 ### [ITeamy](https://www.iteamy.pro/)
 
 *Python Developer | February 2024 - Present*
+
 Focus: Back-End, Microservice Architecture (MSA), k8s.
 Company context: Specializes in cellular communications for Motiv.
 - Wrote 30+ applications from scratch
@@ -98,6 +99,7 @@ Company context: Specializes in cellular communications for Motiv.
 ### [DNS](https://www.dns-shop.ru/)
 
 *Python Developer | June 2022 - November 2023*
+
 Focus: Primarily Back-End, with some Front-End contributions.
 Company context: Retailer specializing in electronics.
 - As a team, developed a monolithic application to distribute products across hundreds of stores
