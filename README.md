@@ -88,8 +88,8 @@ RabbitMQ, Redis, OpenSearch, SonarQube.
 
 *Python Developer | February 2024 - Present*
 
-Focus: Back-End, Microservice Architecture (MSA), k8s.
-Company context: Specializes in cellular communications for Motiv.
+Focus: Back-End, Microservice Architecture (MSA), k8s
+Company context: Specializes in cellular communications for Motiv
 - Wrote 30+ applications from scratch
 - Rewrote 5+ applications from other languages to Python
 - Utilized a broad range of data systems, including Kafka, Redis, RabbitMQ, PostgreSQL, and Oracle (SOAP-based communication), to manage the company’s extensive and distributed data
