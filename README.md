@@ -33,6 +33,7 @@ me.say_hello_to_every1()
 ## Something to share
 
 * [Personal website](http://85.12.207.195:8082/) <img src="support/dy_favicon.ico" height="15">
+* [My Minecraft server](85.12.207.195:30333)
 
 
 ## TOC
@@ -41,6 +42,7 @@ me.say_hello_to_every1()
 
 - [SOLID and some programming-patterns](https://github.com/aaskorohodov/HardSkills)
 - [MiBand 8\9 Pro watchfaces](https://github.com/aaskorohodov/mi_band_9_pro_pip_girl_fallout_watchface)
+- [Minecraft ServerManager](https://github.com/aaskorohodov/minecraft_server_manager)
 - [My personal StyleGuides](https://github.com/aaskorohodov/style_guides)
 - [A small HH parser with web-interface](https://github.com/aaskorohodov/hh_parser)
 - [FastAPI project illustration](https://github.com/aaskorohodov/udv_test)
